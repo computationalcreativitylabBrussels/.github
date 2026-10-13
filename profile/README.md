@@ -1,4 +1,4 @@
-## Hi there 👋
+## Computational Creativity Lab at VUB
 
 <!--
 
@@ -12,4 +12,4 @@
 -->
 
 ### Links to Personal Projects
-- [Discrete Resonance Spectrogram](https://github.com/sthomer/drs) - A brief description of the project.
+- [Discrete Resonance Spectrogram](https://github.com/sthomer/drs) - Short-time Multi-dimensional Fast Padé Transform
